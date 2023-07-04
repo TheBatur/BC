@@ -49,10 +49,9 @@ Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 500 puan
 
 -![kosan_karakter](https://github.com/TheBatur/GoogleBootcamp/assets/129673264/af422df3-bfe7-46b8-9dcb-cef6c3c57ae1)
 
-https://github.com/TheBatur/GoogleBootcamp/assets/62146296/34187cf3-e3a4-4dc7-989d-3ba43d8eb855
+https://github.com/TheBatur/BC/assets/62146296/23beb075-0667-4a0f-a6e3-c4f5d7127320
 
-https://github.com/TheBatur/GoogleBootcamp/assets/62146296/8e597eed-9a02-4b65-884d-e345a04bb4d4
-
+https://github.com/TheBatur/BC/assets/62146296/97bded05-db6a-475e-a8b3-019c7896f1ce
 
 Sprint Review:
 Eksikleri giderip daha düzenli toplantılar yapılmasına karar verilmiştir.
@@ -96,19 +95,15 @@ Yeni karakter ve Asa tasarımı
 
 ![Ekran_goruntusu_2023-06-30_204054](https://github.com/TheBatur/GoogleBootcamp/assets/62146296/dc1286b1-d1f4-48c8-8a1f-74f1f94780e1)
 
+https://github.com/TheBatur/BC/assets/62146296/396582a5-2a99-4547-81e6-643b5a6594ae
 
-https://github.com/TheBatur/GoogleBootcamp/assets/62146296/d3b04434-e0a8-4f97-96ed-0ea666e35c2b
+Oyun içerisinde Düşman NPC olarak kullanılmak üzeren geliştirilen Yapay zeka modeli:
 
-
-Oyun içerisinde Düşman NPC olarak kullanılmak üzeren geliştirilen Yapay zeka modeli
-
-https://github.com/TheBatur/GoogleBootcamp/assets/62146296/491b8f9f-a165-4f84-a5f1-9a8daccbd3e6
-
+https://github.com/TheBatur/BC/assets/62146296/1a92f2a1-0f22-46dc-86e1-404e36ae1058
 
 Oyun için tasarlanan diğer modeller:
 
-https://github.com/TheBatur/GoogleBootcamp/assets/62146296/102f6a73-d8e4-4cd4-b0b8-76f9ec68f74e
-
+https://github.com/TheBatur/BC/assets/62146296/c1c64472-2634-47f7-a1e7-5abb3b1c8a5e
 
 - Sprint Retrospective:
 - Bayram süreci göz önünde bulundurularak tekrar değerlendirilen gidişat 3. sprintte daha çok hikaye ve map üzerinde yoğunlaşılcak şekilde yapılmasına karar verildi.
